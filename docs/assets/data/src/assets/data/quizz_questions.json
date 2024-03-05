@@ -1,0 +1,43 @@
+{
+  "title":"Você estaria na Armada de Dumbledore ou entre os Comensais da Morte?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual a sua casa favorita de Hogwarts ?",
+      "options":[
+        {"id": 1, "name":"Gryffindor", "alias":"A"},
+        {"id": 2, "name":"Slytherin", "alias":"B"},
+        {"id": 3, "name":"Ravenclaw", "alias":"A"},
+        {"id": 4, "name":"Hufflepuff", "alias":"A"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Que raça deveria ter acesso e aprendizado à magias ?",
+      "options":[
+        {"id": 1, "name":"puro sangue bruxo", "alias":"B"},
+        {"id": 2, "name":"Todos aqueles que possuem o dom", "alias":"A"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "As magias imperdoáveis deveriam ser usadas?",
+      "options":[
+        {"id": 1, "name":"Sim", "alias":"B"},
+        {"id": 2, "name":"Não", "alias":"A"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual o seu maior foco ?",
+      "options":[
+        {"id": 1, "name":"Ser íntegro", "alias":"A"},
+        {"id": 2, "name":"Ser poderoso", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você muito provavelmente estaria com a Ordem da Fênix!",
+    "B": "Você muito provavelmente seria um comensal da morte!"
+  }
+}
